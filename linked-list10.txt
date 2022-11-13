@@ -1,0 +1,17 @@
+Start program: 2022-11-14 0:52:50
+ADD, ID = 1   68700 ns
+ADD, ID = 2   1300 ns
+ADD, ID = 3   400 ns
+ADD, ID = 4   200 ns
+ADD, ID = 5   200 ns
+ADD, ID = 6   100 ns
+ADD, ID = 7   200 ns
+ADD, ID = 8   200 ns
+ADD, ID = 9   200 ns
+ADD, ID = 10   200 ns
+addTotalTime: 71700 ns
+addMedianTime: 7170 ns
+REMOVE, ID = 6   3700 ns
+removeTotalTime: 3700 ns
+removeMedianTime: 370 ns
+Finish program: 2022-11-14 0:52:50
